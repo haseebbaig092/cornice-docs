@@ -4,7 +4,7 @@
 
 **A fast, flexible Shopify Online Store 2.0 theme**
 
-For fashion, gifts, beauty and general retail stores.
+Built for fashion and apparel, beauty and skincare, health and wellness, food and beverage, and home and living stores.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-black) ![Shopify](https://img.shields.io/badge/Shopify-Online%20Store%202.0-5a863e) ![Dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
 
